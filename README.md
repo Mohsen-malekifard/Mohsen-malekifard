@@ -4,7 +4,7 @@
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehlata-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="snehlata-prajapati" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohsen-malekifard&label=Profile%20views&color=0e75b6&style=flat" alt="Mohsen-malekifard" /> </p>
 
 - 🔭 I’m currently working on **Food Delivering App**
 - 🌱 I’m currently learning **React.js and Next.js**
