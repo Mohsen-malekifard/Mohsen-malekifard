@@ -48,7 +48,14 @@
     <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
   </picture>
 </div>
+<h3 align="left">GitHub Stats:</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsen-malekifard&show_icons=true&locale=en&layout=compact" alt="Mohsen-malekifard" />
+</p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohsen-malekifard&show_icons=true&locale=en" alt="Mohsen-malekifard" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-malekifard&" alt="Mohsen-malekifard" /></p>
 <!--<div style="text-align: center;">
   <div style="display: inline-block; height: 100%;">
     <picture>
@@ -58,14 +65,7 @@
     </picture>
   </div>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsen-malekifard&show_icons=true&locale=en&layout=compact" alt="Mohsen-malekifard" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohsen-malekifard&show_icons=true&locale=en" alt="Mohsen-malekifard" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-malekifard&" alt="Mohsen-malekifard" /></p>
 <!--
 **OV111/OV111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
